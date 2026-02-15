@@ -1,0 +1,366 @@
+PRIVACYGUARD DOCUMENTATION LICENSE
+
+Copyright © 2026 mechobliterate. All Rights Reserved.
+
+================================================================================
+DEFINITIONS
+================================================================================
+
+"Documentation" refers to all content contained within this repository,
+including but not limited to: markdown files, images, screenshots, text,
+diagrams, illustrations, instructions, guides, templates, code snippets,
+and any other materials provided.
+
+"You" (or "Your") refers to any individual or legal entity exercising
+permissions granted by this License.
+
+"Commercial Use" means any use primarily intended for or directed toward
+commercial advantage or monetary compensation, including but not limited to:
+selling, licensing for profit, including in paid products or services,
+using for commercial training or consulting, or incorporating into
+commercial offerings.
+
+"Redistribute" means to make available, distribute, publish, transmit,
+share, or otherwise provide to third parties through any means including
+but not limited to: posting on other websites, including in other
+repositories or documentation systems, publishing in books or other media,
+or distributing through any commercial or non-commercial channel.
+
+"Personal Use" means use by an individual for their own personal, private,
+non-commercial purposes, including viewing, learning from, and applying
+the settings and configurations described for their own devices and accounts.
+
+"Fork" means creating a copy of this repository through Git version control
+systems.
+
+"Attribution" means clear and visible acknowledgment of mechobliterate as
+the original author and copyright holder, including a link to the original
+repository at https://github.com/mechobliterate/privacyguard
+
+================================================================================
+GRANT OF LICENSE
+================================================================================
+
+Subject to the terms and conditions of this License, mechobliterate hereby
+grants You a worldwide, non-exclusive, non-transferable, revocable license to:
+
+1. VIEW AND READ
+   View, read, and access the Documentation for Personal Use.
+
+2. PERSONAL REFERENCE
+   Print or save copies of the Documentation for Your own Personal Use and
+   reference on Your personal devices.
+
+3. APPLY SETTINGS
+   Follow the instructions and apply the privacy configurations described
+   in the Documentation to Your own devices, applications, and accounts.
+
+4. SHARE LINKS
+   Share direct links to the original repository at
+   https://github.com/mechobliterate/privacyguard with others.
+
+5. PERSONAL FORK
+   Create a personal Fork of the repository for Your own Personal Use,
+   reference, and contribution purposes as outlined in Section 6 below.
+
+6. CONTRIBUTE
+   Submit contributions to the original repository via pull requests,
+   provided that:
+   a) All contributions are submitted under this same License
+   b) You represent that You have the right to submit the contribution
+   c) You grant mechobliterate perpetual rights to use Your contribution
+   d) You retain copyright to Your own contributions
+   e) Your contributions comply with the CONTRIBUTING.md guidelines
+
+================================================================================
+RESTRICTIONS AND PROHIBITIONS
+================================================================================
+
+You are expressly PROHIBITED from:
+
+1. REDISTRIBUTION
+   You may NOT Redistribute, republish, repost, mirror, or make available
+   the Documentation or any portion thereof on any other website, platform,
+   repository, documentation system, or through any other means, whether
+   commercial or non-commercial, without explicit written permission from
+   mechobliterate.
+
+2. COMMERCIAL USE
+   You may NOT use the Documentation for Commercial Use in any way,
+   including but not limited to:
+   a) Selling or licensing the Documentation or modified versions
+   b) Including the Documentation in any paid product, service, or offering
+   c) Using the Documentation as part of commercial consulting or training
+   d) Incorporating the Documentation into commercial books or publications
+   e) Monetizing the Documentation through advertisements or sponsorships
+   f) Using the Documentation to generate revenue in any manner
+
+3. MODIFICATION AND DERIVATIVE WORKS
+   You may NOT:
+   a) Create modified versions of the Documentation for public distribution
+   b) Create derivative works based on the Documentation for Redistribution
+   c) Translate the Documentation for Redistribution without permission
+   d) Adapt, remix, transform, or build upon the Documentation for
+      Redistribution or Commercial Use
+
+4. REMOVAL OF ATTRIBUTION
+   You may NOT:
+   a) Remove, obscure, or alter any copyright notices or attributions
+   b) Remove or alter any references to the original repository
+   c) Claim authorship or ownership of the Documentation
+   d) Present the Documentation as Your own work
+   e) Remove or alter this License file
+
+5. BRAND AND TRADEMARK USE
+   You may NOT:
+   a) Use the name "PrivacyGuard" as a trademark or brand name
+   b) Create derivative projects using confusingly similar names
+   c) Suggest affiliation with or endorsement by mechobliterate
+   d) Use mechobliterate's name to promote products or services without
+      permission
+
+6. AUTOMATED SCRAPING
+   You may NOT:
+   a) Use automated tools to scrape or mass-download the Documentation
+   b) Create mirrors or clones of the repository without permission
+   c) Extract the Documentation through automated means for Redistribution
+
+7. SUBLICENSING
+   You may NOT sublicense, transfer, or assign Your rights under this
+   License to any other party.
+
+================================================================================
+CONTRIBUTION TERMS
+================================================================================
+
+By submitting any contribution to this repository, You agree that:
+
+1. Your contribution is Your original work or You have the necessary rights
+   to submit it.
+
+2. You grant mechobliterate a perpetual, worldwide, non-exclusive,
+   royalty-free, irrevocable license to use, modify, reproduce, distribute,
+   and incorporate Your contribution into the Documentation.
+
+3. You retain copyright to Your own contributions, but license them under
+   the same terms as this License.
+
+4. Your contribution does not violate any third-party rights, including
+   copyright, trademark, patent, or trade secret rights.
+
+5. You will not submit contributions containing malicious code, false
+   information, or content that violates applicable laws.
+
+================================================================================
+COMMERCIAL LICENSING
+================================================================================
+
+Organizations or individuals interested in Commercial Use, Redistribution,
+or any use not permitted under this License may contact mechobliterate
+to discuss commercial licensing arrangements.
+
+For commercial licensing inquiries, contact:
+[To be provided by mechobliterate]
+
+================================================================================
+ENFORCEMENT AND VIOLATIONS
+================================================================================
+
+1. VIOLATION CONSEQUENCES
+   Any violation of this License automatically terminates Your rights
+   under this License. Upon termination:
+   a) You must immediately cease all use of the Documentation
+   b) You must delete all copies in Your possession or control
+   c) You must remove any Redistributed versions from Your platforms
+   d) You remain liable for any damages caused by the violation
+
+2. LEGAL REMEDIES
+   mechobliterate reserves all rights to pursue legal remedies for
+   violations of this License, including but not limited to:
+   a) Injunctive relief to stop unauthorized use
+   b) Monetary damages for Commercial Use violations
+   c) Recovery of profits derived from unauthorized use
+   d) Recovery of legal fees and costs
+   e) Any other remedies available under applicable law
+
+3. DMCA AND TAKEDOWN NOTICES
+   Unauthorized Redistribution of this Documentation may be subject to
+   Digital Millennium Copyright Act (DMCA) takedown requests and similar
+   legal mechanisms in applicable jurisdictions.
+
+4. NO WAIVER
+   Failure by mechobliterate to enforce any provision of this License
+   shall not constitute a waiver of future enforcement of that or any
+   other provision.
+
+================================================================================
+INTELLECTUAL PROPERTY RIGHTS
+================================================================================
+
+1. COPYRIGHT OWNERSHIP
+   mechobliterate retains all right, title, and interest in and to the
+   Documentation, including all copyrights, moral rights, and other
+   intellectual property rights.
+
+2. THIRD-PARTY CONTENT
+   Some portions of the Documentation may reference or include information
+   about third-party applications and services. Such references:
+   a) Do not imply endorsement by mechobliterate
+   b) Are subject to the respective third parties' trademarks and copyrights
+   c) Are included for informational and educational purposes only
+   d) May be subject to the third parties' terms of service
+
+3. TRADEMARKS
+   "PrivacyGuard" and any associated logos or marks are trademarks of
+   mechobliterate. No license to use these marks is granted under this
+   License.
+
+4. SCREENSHOTS AND IMAGES
+   Screenshots and images of third-party applications included in the
+   Documentation are used for educational purposes under fair use doctrine
+   or with permission. These images remain subject to their respective
+   copyright holders' rights.
+
+================================================================================
+DISCLAIMERS AND LIMITATION OF LIABILITY
+================================================================================
+
+1. NO WARRANTY
+   THE DOCUMENTATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, OR
+   NON-INFRINGEMENT.
+
+2. NO GUARANTEE OF ACCURACY
+   While efforts are made to ensure accuracy, mechobliterate makes no
+   representations or warranties regarding:
+   a) The accuracy, completeness, or currentness of the Documentation
+   b) The effectiveness of the privacy settings described
+   c) The security or privacy implications of following the instructions
+   d) Compatibility with any specific application versions
+   e) Results obtained from using the Documentation
+
+3. APPLICATION CHANGES
+   Third-party applications and services described in the Documentation
+   may change their features, settings, or privacy policies at any time.
+   mechobliterate is not responsible for such changes or their impact.
+
+4. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+   mechobliterate BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+   EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+   PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+   PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+   LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+   NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+   DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+5. USER RESPONSIBILITY
+   You are solely responsible for:
+   a) Evaluating the suitability of the Documentation for Your purposes
+   b) Verifying the accuracy of information before applying it
+   c) Understanding the implications of privacy setting changes
+   d) Backing up Your data before making changes
+   e) Complying with all applicable laws and third-party terms of service
+
+6. NO PROFESSIONAL ADVICE
+   The Documentation does not constitute professional advice, including
+   legal, security, or technical consulting advice. For professional
+   advice specific to Your situation, consult qualified professionals.
+
+================================================================================
+INDEMNIFICATION
+================================================================================
+
+You agree to indemnify, defend, and hold harmless mechobliterate from and
+against any and all claims, damages, liabilities, costs, and expenses
+(including reasonable attorneys' fees) arising from:
+
+1. Your use or misuse of the Documentation
+2. Your violation of this License
+3. Your violation of any third-party rights, including copyright, trademark,
+   patent, or privacy rights
+4. Any content You contribute to the repository
+5. Any unauthorized Redistribution or Commercial Use of the Documentation
+
+================================================================================
+GOVERNING LAW AND JURISDICTION
+================================================================================
+
+1. GOVERNING LAW
+   This License shall be governed by and construed in accordance with the
+   laws of [Jurisdiction to be specified by mechobliterate], without
+   regard to its conflict of law provisions.
+
+2. DISPUTE RESOLUTION
+   Any dispute arising out of or relating to this License shall be resolved
+   through:
+   a) Good faith negotiation between the parties
+   b) If negotiation fails, binding arbitration in accordance with the
+      rules of [Arbitration body to be specified]
+   c) The prevailing party shall be entitled to recover reasonable
+      attorneys' fees and costs
+
+3. VENUE
+   Any legal action relating to this License shall be brought exclusively
+   in the courts of [Jurisdiction to be specified by mechobliterate].
+
+================================================================================
+SEVERABILITY
+================================================================================
+
+If any provision of this License is held to be invalid or unenforceable,
+the remaining provisions shall remain in full force and effect. The invalid
+or unenforceable provision shall be replaced with a valid provision that
+most closely approximates the intent and economic effect of the original
+provision.
+
+================================================================================
+ENTIRE AGREEMENT
+================================================================================
+
+This License constitutes the entire agreement between You and mechobliterate
+regarding the Documentation and supersedes all prior or contemporaneous
+understandings and agreements, whether written or oral, regarding the
+subject matter herein.
+
+================================================================================
+MODIFICATION OF LICENSE
+================================================================================
+
+mechobliterate reserves the right to modify this License at any time by
+publishing a new version in the repository. Changes will be effective
+immediately upon publication. Your continued use of the Documentation
+after changes are published constitutes acceptance of the new License terms.
+
+The version history of this License is tracked in the repository's commit
+history. Each version includes the date of modification.
+
+================================================================================
+CONTACT INFORMATION
+================================================================================
+
+For questions about this License, commercial licensing inquiries, or to
+report violations, contact:
+
+GitHub: @mechobliterate
+Repository: https://github.com/mechobliterate/privacyguard
+
+================================================================================
+ACKNOWLEDGMENT
+================================================================================
+
+BY ACCESSING, VIEWING, USING, OR CONTRIBUTING TO THE DOCUMENTATION, YOU
+ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO
+BE BOUND BY ITS TERMS AND CONDITIONS.
+
+IF YOU DO NOT AGREE TO THESE TERMS, YOU MUST NOT ACCESS, VIEW, USE, OR
+CONTRIBUTE TO THE DOCUMENTATION.
+
+================================================================================
+
+License Version: 1.0
+Effective Date: February 15, 2026
+Last Updated: February 15, 2026
+
+Copyright © 2026 mechobliterate. All Rights Reserved.
